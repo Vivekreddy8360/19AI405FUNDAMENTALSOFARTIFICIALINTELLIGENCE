@@ -79,13 +79,13 @@ path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
-<h3>Sample Input</h3>
+## Sample Input
 ![image](https://github.com/Vivekreddy8360/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94525701/af5365fc-7147-48ca-9591-992bba9d3c4b)
 
-<h3>Sample Output</h3>
+## Sample Output
 ![image](https://github.com/Vivekreddy8360/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94525701/77d3d190-2b1b-42ed-b667-07ee2d8dbfe5)
 
 <h3>Result:</h3>
-<hr>
+
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
