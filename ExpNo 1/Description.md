@@ -82,7 +82,7 @@ print(traversedpath)
 ## Sample Input
 ![image](https://github.com/Vivekreddy8360/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94525701/af5365fc-7147-48ca-9591-992bba9d3c4b)
 
-## Sample Output
+## Output
 ![image](https://github.com/Vivekreddy8360/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94525701/77d3d190-2b1b-42ed-b667-07ee2d8dbfe5)
 
 <h3>Result:</h3>
